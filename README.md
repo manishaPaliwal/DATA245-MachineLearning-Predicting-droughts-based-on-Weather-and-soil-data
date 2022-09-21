@@ -1,1 +1,1 @@
-# DATA245-MachineLearning-California_Drought_Prediction
+# DATA245-MachineLearning-Predicting droughts based on Weather and soil data
